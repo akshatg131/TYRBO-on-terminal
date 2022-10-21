@@ -10,14 +10,14 @@
     #include<unistd.h>//usleep()
     #include <termios.h>
 #endif
-#include<string.h> //includes string.h that contains string manipulation functions like strcmp() strlen()
+#include<string.h> //include string.h that contains string manipulation functions like strcmp() strlen()
 #include<time.h>
 #include<stdlib.h>
 // #include"menu.h"
 #include"type_content.h"//includes the user defined type_content.h header file
 // #include"user_manage.h"//includes the user defined user_manage.h header file
 #include"tc.h"
-// SCORE scores[100];
+/
 
 void caps_check();
 int score_n;
